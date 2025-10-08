@@ -11,6 +11,18 @@
       "title": "（test）展示会出展のお知らせ",
       "content": "幕張メッセで開催される福祉機器展に出展します。ぜひお立ち寄りください。",
       "url": "https://example.com/event/makuhari2025"
+    },
+    {
+      "date": "2025-10-08",
+      "title": "（test2）展示会出展のお知らせ",
+      "content": "幕張メッセで開催される福祉機器展に出展します。ぜひお立ち寄りください。",
+      "url": "https://example.com/event/makuhari2025"
+    },
+    {
+      "date": "2025-10-07",
+      "title": "（test3）展示会出展のお知らせ",
+      "content": "幕張メッセで開催される福祉機器展に出展します。ぜひお立ち寄りください。",
+      "url": "https://example.com/event/makuhari2025"
     }
   ]
 }

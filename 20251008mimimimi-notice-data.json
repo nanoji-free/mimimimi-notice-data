@@ -1,0 +1,11 @@
+{
+  "notices": [
+    {
+      "date": "2025-10-08",
+      "title": "テストお知らせ",
+      "content": "これはテスト用のお知らせです。",
+      "url": "https://example.com"
+    }
+  ]
+}
+

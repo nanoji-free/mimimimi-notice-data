@@ -1,29 +1,16 @@
 {
-  "versionCode": 2,
+  "versionCode": 1,
   "notices": [
+    {
+      "date": "2025-11-07",
+      "title": "「耳みみエイド」リリースのお知らせ",
+      "content": "聴覚困難補助を目的として耳みみエイドをリリースします。"
+    },
     {
       "date": "2025-10-08",
       "title": "テストデータ（ジャンプ）",
       "content": "グーグルのトップページに遷移",
       "url": "http://google.com"
-    },
-    {
-      "date": "2025-10-07",
-      "title": "（test）展示会出展のお知らせ",
-      "content": "幕張メッセで開催される福祉機器展に出展します。ぜひお立ち寄りください。",
-      "url": "https://example.com/event/makuhari2025"
-    },
-    {
-      "date": "2025-10-08",
-      "title": "（test2）展示会出展のお知らせ",
-      "content": "幕張メッセで開催される福祉機器展に出展します。ぜひお立ち寄りください。",
-      "url": "https://example.com/event/makuhari2025"
-    },
-    {
-      "date": "2025-10-07",
-      "title": "（test3）展示会出展のお知らせ",
-      "content": "幕張メッセで開催される福祉機器展に出展します。ぜひお立ち寄りください。",
-      "url": "https://example.com/event/makuhari2025"
     }
   ]
 }

@@ -1,18 +1,21 @@
 {
-  "versionCode": 1,
+  "versionCode": 3,
   "notices": [
     {
-      "date": "2025-11-07",
-      "title": "「耳みみエイド」リリースのお知らせ",
-      "content": "聴覚困難補助を目的として耳みみエイドをリリースします。",
+      "date": "2025-12-24",
+      "title": "「お天気・災害情報」",
+      "content": "yahoo Japan（公式）～お天気の情報のほか、災害時の避難所の情報の取得などにお役立て下さい。",
+      "url":"https://weather.yahoo.co.jp/weather/"
+    },{
+      "date": "2025-12-24",
+      "title": "詳しい検索はコチラ",
+      "content": "グーグルのトップページから検索ができます。",
       "url":"http://google.com"
-    },
-    {
-      "date": "2025-10-08",
-      "title": "テストデータ（ジャンプ）",
-      "content": "グーグルのトップページに遷移",
-      "url": "http://google.com"
+    },{
+      "date": "2025-12-24",
+      "title": "「耳みみエイド」リリースのお知らせ",
+      "content": "聴覚の補助を目的として、耳みみエイドをリリースします。",
+      "url":"http://google.com"
     }
   ]
 }
-

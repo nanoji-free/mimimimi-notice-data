@@ -3,7 +3,7 @@
   "notices": [
     {
       "date": "2025-12-24",
-      "title": "「お天気・災害情報」",
+      "title": "お天気・災害情報",
       "content": "yahoo Japan（公式）～お天気の情報のほか、災害時の避難所の情報の取得などにお役立て下さい。",
       "url":"https://weather.yahoo.co.jp/weather/"
     },{
@@ -13,7 +13,7 @@
       "url":"http://google.com"
     },{
       "date": "2025-12-24",
-      "title": "「耳みみエイド」リリースのお知らせ",
+      "title": "耳みみエイド、リリースのお知らせ",
       "content": "聴覚の補助を目的として、耳みみエイドをリリースします。",
       "url":"http://google.com"
     }
